@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@200;300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600;700&display=swap');
+
+
+:root{
+  --white: #FFFFFF;
+  --oscure: #25063F;
+
+}
+
+body{
+  margin: 0;
+}
+
+html{
+  box-sizing: border-box;
+  font-family: 'Stick No Bills', sans-serif;
+}
+
+*, *::after, *::before{
+  box-sizing: inherit;
+}
+
+h1, h2, h3, h4, h5, h6{
+  margin: 0;
+  font-weight: normal;
+}
